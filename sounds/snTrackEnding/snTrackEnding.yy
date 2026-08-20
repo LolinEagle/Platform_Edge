@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"snTrackEnding",
   "audioGroupId":{
     "name":"OST",
     "path":"audiogroups/OST",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":0,
   "compression":0,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":32.00329,
+  "exportDir":"",
   "name":"snTrackEnding",
   "parent":{
     "name":"Music",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"snTrackEnding",
-  "type":0,
   "volume":0.5,
 }

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sEnemyBigAir",
   "bboxMode":2,
   "bbox_bottom":255,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"5196f698-61fb-47e7-9a16-5d7048d6b713","name":"5196f698-61fb-47e7-9a16-5d7048d6b713","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d558abf1-9293-4ebf-981f-d4a2a3fb4dca","name":"d558abf1-9293-4ebf-981f-d4a2a3fb4dca","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5196f698-61fb-47e7-9a16-5d7048d6b713","name":"5196f698-61fb-47e7-9a16-5d7048d6b713","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d558abf1-9293-4ebf-981f-d4a2a3fb4dca","name":"d558abf1-9293-4ebf-981f-d4a2a3fb4dca","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

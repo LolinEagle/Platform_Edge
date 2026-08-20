@@ -1,5 +1,5 @@
 {
-  "$GMNotes":"",
+  "$GMNotes":"v1",
   "%Name":"Audio_play_sound Priority",
   "name":"Audio_play_sound Priority",
   "parent":{

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sPlayerDeath",
   "bboxMode":2,
   "bbox_bottom":61,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1e00c925-b1d5-4d60-b9a7-c3dd4e6f7122","name":"1e00c925-b1d5-4d60-b9a7-c3dd4e6f7122","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"73d82b9e-7cd5-450f-a74a-6ab8d1a917d6","name":"73d82b9e-7cd5-450f-a74a-6ab8d1a917d6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1e00c925-b1d5-4d60-b9a7-c3dd4e6f7122","name":"1e00c925-b1d5-4d60-b9a7-c3dd4e6f7122","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"73d82b9e-7cd5-450f-a74a-6ab8d1a917d6","name":"73d82b9e-7cd5-450f-a74a-6ab8d1a917d6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sTilesNeo",
   "bboxMode":0,
   "bbox_bottom":95,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"83e90bfc-bcb5-46fc-b6b6-324f6c5ac317","name":"83e90bfc-bcb5-46fc-b6b6-324f6c5ac317","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"83e90bfc-bcb5-46fc-b6b6-324f6c5ac317","name":"83e90bfc-bcb5-46fc-b6b6-324f6c5ac317","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

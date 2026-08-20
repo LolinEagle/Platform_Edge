@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sBumper",
   "bboxMode":2,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"25b1bea5-691e-4e4a-b6f2-8b6b3e235d58","name":"25b1bea5-691e-4e4a-b6f2-8b6b3e235d58","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"25b1bea5-691e-4e4a-b6f2-8b6b3e235d58","name":"25b1bea5-691e-4e4a-b6f2-8b6b3e235d58","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

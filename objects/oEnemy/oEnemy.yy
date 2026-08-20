@@ -31,7 +31,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"afraidOfHeights","filters":[
+    {"$GMObjectProperty":"v2","%Name":"afraidOfHeights","filters":[
         "GMTileSet",
         "GMSprite",
         "GMSound",
@@ -43,7 +43,7 @@
         "GMObject",
         "GMRoom",
       ],"listItems":null,"multiselect":false,"name":"afraidOfHeights","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"True","varType":3,},
-    {"$GMObjectProperty":"v1","%Name":"hasweapon","filters":[
+    {"$GMObjectProperty":"v2","%Name":"hasweapon","filters":[
         "GMTileSet",
         "GMSprite",
         "GMSound",
@@ -55,11 +55,11 @@
         "GMObject",
         "GMRoom",
       ],"listItems":null,"multiselect":false,"name":"hasweapon","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":3,},
-    {"$GMObjectProperty":"v1","%Name":"sprite","filters":[],"listItems":[],"multiselect":false,"name":"sprite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sEnemy","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"spriteAir","filters":[],"listItems":[],"multiselect":false,"name":"spriteAir","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sEnemyAir","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"spriteRun","filters":[],"listItems":[],"multiselect":false,"name":"spriteRun","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sEnemyRun","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"spriteDeath","filters":[],"listItems":[],"multiselect":false,"name":"spriteDeath","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"oEnemyDeath","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"big","filters":[],"listItems":[],"multiselect":false,"name":"big","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":3,},
+    {"$GMObjectProperty":"v2","%Name":"sprite","filters":[],"listItems":[],"multiselect":false,"name":"sprite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sEnemy","varType":0,},
+    {"$GMObjectProperty":"v2","%Name":"spriteAir","filters":[],"listItems":[],"multiselect":false,"name":"spriteAir","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sEnemyAir","varType":0,},
+    {"$GMObjectProperty":"v2","%Name":"spriteRun","filters":[],"listItems":[],"multiselect":false,"name":"spriteRun","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sEnemyRun","varType":0,},
+    {"$GMObjectProperty":"v2","%Name":"spriteDeath","filters":[],"listItems":[],"multiselect":false,"name":"spriteDeath","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"oEnemyDeath","varType":0,},
+    {"$GMObjectProperty":"v2","%Name":"big","filters":[],"listItems":[],"multiselect":false,"name":"big","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

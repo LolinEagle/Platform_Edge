@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"snTrack2",
   "audioGroupId":{
     "name":"OST",
     "path":"audiogroups/OST",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":0,
   "compression":0,
+  "compressionQuality":4,
   "conversionMode":0,
-  "duration":64.005,
+  "duration":64.0,
+  "exportDir":"",
   "name":"snTrack2",
   "parent":{
     "name":"Music",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"snTrack2",
-  "type":0,
   "volume":0.5,
 }

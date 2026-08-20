@@ -4,12 +4,12 @@ scDrawSetText(c_black, menuFont, fa_right, fa_top);
 //Version
 var xx = RES_W - 8;
 var yy = 8;
-draw_text(xx - 2, yy, "1.2.0");
-draw_text(xx + 2, yy, "1.2.0");
-draw_text(xx, yy - 2, "1.2.0");
-draw_text(xx, yy + 2, "1.2.0");
+draw_text(xx - 2, yy, VERSION);
+draw_text(xx + 2, yy, VERSION);
+draw_text(xx, yy - 2, VERSION);
+draw_text(xx, yy + 2, VERSION);
 draw_set_color(c_white);
-draw_text(xx, yy, "1.2.0");
+draw_text(xx, yy, VERSION);
 
 //Menu
 for(var i = 0; i < menuItems; i++){

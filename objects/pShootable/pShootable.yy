@@ -26,7 +26,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"hp","filters":[
+    {"$GMObjectProperty":"v2","%Name":"hp","filters":[
         "GMTileSet",
         "GMSprite",
         "GMSound",
@@ -38,7 +38,7 @@
         "GMObject",
         "GMRoom",
       ],"listItems":null,"multiselect":false,"name":"hp","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"3","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"flash","filters":[
+    {"$GMObjectProperty":"v2","%Name":"flash","filters":[
         "GMTileSet",
         "GMSprite",
         "GMSound",

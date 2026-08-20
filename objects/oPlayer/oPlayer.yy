@@ -36,7 +36,7 @@
   ],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"grv","filters":[
+    {"$GMObjectProperty":"v2","%Name":"grv","filters":[
         "GMTileSet",
         "GMSprite",
         "GMSound",
@@ -48,7 +48,7 @@
         "GMObject",
         "GMRoom",
       ],"listItems":null,"multiselect":false,"name":"grv","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.2","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"walkspd","filters":[
+    {"$GMObjectProperty":"v2","%Name":"walkspd","filters":[
         "GMTileSet",
         "GMSprite",
         "GMSound",
@@ -60,7 +60,7 @@
         "GMObject",
         "GMRoom",
       ],"listItems":null,"multiselect":false,"name":"walkspd","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"8","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"hascontrol","filters":[
+    {"$GMObjectProperty":"v2","%Name":"hascontrol","filters":[
         "GMTileSet",
         "GMSprite",
         "GMSound",

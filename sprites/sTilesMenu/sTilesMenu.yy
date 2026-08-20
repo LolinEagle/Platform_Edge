@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sTilesMenu",
   "bboxMode":0,
   "bbox_bottom":95,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"b75d53fc-7e7a-4e8d-b7b4-9de4bba6c2ed","name":"b75d53fc-7e7a-4e8d-b7b4-9de4bba6c2ed","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b75d53fc-7e7a-4e8d-b7b4-9de4bba6c2ed","name":"b75d53fc-7e7a-4e8d-b7b4-9de4bba6c2ed","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

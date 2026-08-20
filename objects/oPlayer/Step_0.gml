@@ -7,13 +7,23 @@ if(!global.gamePaused){
 		keyJump = keyboard_check(vk_space);
 	
 		#region Gamepad
-		if(keyLeft || keyRight || keyJump){controller = false;}
+		if(keyLeft || keyRight || keyDown || keyJump){controller = false;}
+		
+		// Horizontal Movement
 		if(abs(gamepad_axis_value(0, gp_axislh)) > 0.2){
 			keyLeft = abs(min(gamepad_axis_value(0, gp_axislh), 0));
 			keyRight = max(gamepad_axis_value(0, gp_axislh), 0);
-			keyDown = abs(min(gamepad_axis_value(0, gp_axislh)));
 			controller = true;
-		}if(gamepad_button_check_pressed(0, gp_face1)){
+		}
+		
+		// Vertical Movement
+        if(gamepad_axis_value(0, gp_axislv) > 0.5){
+            keyDown = 1;
+            controller = true;
+        }
+		
+		// Jump
+		if(gamepad_button_check_pressed(0, gp_face1)){
 			keyJump = 1;
 			controller = true;
 		}#endregion

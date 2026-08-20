@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sEnemyBigDeath",
   "bboxMode":2,
   "bbox_bottom":244,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"ddcaa618-b8de-4b8c-b14a-8df2646d52b6","name":"ddcaa618-b8de-4b8c-b14a-8df2646d52b6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"5c5f74a2-64f5-4bcb-b1d4-406f0bdbb029","name":"5c5f74a2-64f5-4bcb-b1d4-406f0bdbb029","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ddcaa618-b8de-4b8c-b14a-8df2646d52b6","name":"ddcaa618-b8de-4b8c-b14a-8df2646d52b6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5c5f74a2-64f5-4bcb-b1d4-406f0bdbb029","name":"5c5f74a2-64f5-4bcb-b1d4-406f0bdbb029","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
