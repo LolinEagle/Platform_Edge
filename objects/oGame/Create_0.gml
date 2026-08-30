@@ -24,8 +24,13 @@ redCoinTextScale = 1;
 ini_open(OPTION);
 global.gameOST = ini_read_real("Audio", "OST", 0.5);
 global.gameSFX = ini_read_real("Audio", "SFX", 0.5);
-global.gameUp = ini_read_string("Key", "Up", ord("W"));
-global.gameLeft = ini_read_string("Key", "Left", ord("A"));
+if (os_get_language() == "fr"){
+	global.gameUp = ini_read_string("Key", "Up", ord("Z"));
+	global.gameLeft = ini_read_string("Key", "Left", ord("Q"));
+} else {
+	global.gameUp = ini_read_string("Key", "Up", ord("W"));
+	global.gameLeft = ini_read_string("Key", "Left", ord("A"));
+}
 global.gameDown = ini_read_string("Key", "Down", ord("S"));
 global.gameRight = ini_read_string("Key", "Right", ord("D"));
 global.Achievement = array_create(6);
