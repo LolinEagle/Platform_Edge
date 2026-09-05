@@ -10,4 +10,4 @@
 
 //Other
 #macro KEY_PRESSED keyboard_check_pressed
-#macro VERSION "1.2.1"
+#macro VERSION "1.2.2"

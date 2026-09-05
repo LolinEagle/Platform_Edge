@@ -8,12 +8,12 @@ global.redCoinsHisRoom = 0;
 
 //Music
 if(room == rForest){audio_play_sound(snTrack1, 3, true);}
-if(room == rHill){audio_play_sound(snTrack2, 3, true);}
-if(room == rNeo){audio_play_sound(snTrack3, 3, true);}
-if(room == rEnding){audio_play_sound(snTrackEnding, 3, true);}
+else if(room == rHill){audio_play_sound(snTrack2, 3, true);}
+else if(room == rNeo){audio_play_sound(snTrack3, 3, true);}
+else if(room == rEnding){audio_play_sound(snTrackEnding, 3, true);}
 
 //Create Objects
-if(room == rMenu){
+else if(room == rMenu){
 	if(!instance_exists(oMenu)){instance_create_layer(x, y, layer, oMenu);}
 	if(!instance_exists(oCamera)){instance_create_layer(x, y, layer, oCamera);}
 	if(!instance_exists(oPause)){instance_create_layer(x, y, layer, oPause);}
