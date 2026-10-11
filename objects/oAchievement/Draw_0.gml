@@ -27,7 +27,10 @@ for(var _i = 0; _i <= achievement; _i++){
 }
 
 //Ending
-if(achievement == 5 && global.Achievement[5] == true){
+if(
+	global.Achievement[0] && global.Achievement[1] && global.Achievement[2] &&
+	global.Achievement[3] && global.Achievement[4] && global.Achievement[5]
+){
 	scDrawSetText(c_black, fRoboto24, fa_center, fa_top);
 	xx = 172;
 	yy = 486;

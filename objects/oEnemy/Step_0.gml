@@ -2,9 +2,7 @@ if(!global.gamePaused){
 	vspd = vspd + grv;
 
 	//Don't walk of edges
-	if(
-		grounded && afraidOfHeights && !place_meeting(x + hspd, y + 1, oWall)
-	){
+	if(grounded && afraidOfHeights && !place_meeting(x + hspd, y + 1, oWall)){
 		hspd = -hspd;
 	}
 

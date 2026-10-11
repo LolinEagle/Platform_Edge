@@ -25,9 +25,7 @@ if(!global.gamePaused){
 		
 			//Shoot
 			if(
-				!collision_line(
-					x, y, oPlayer.x, oPlayer.y, oWall, false, false
-				)
+				!collision_line(x, y, oPlayer.x, oPlayer.y, oWall, false, false)
 			){
 				countdown--;
 				if(countdown <= 0){

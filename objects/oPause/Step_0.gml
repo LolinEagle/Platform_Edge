@@ -43,7 +43,8 @@ if(global.gamePaused && room != room_first){
 	//Press DOWN
 	if(!option){
 		if(
-			keyboard_check_pressed(global.gameDown) || keyboard_check_pressed(vk_down)
+			keyboard_check_pressed(global.gameDown) ||
+			keyboard_check_pressed(vk_down)
 		){
 			pauseCursor++;
 			if(!pauseConfirmation){
@@ -55,7 +56,8 @@ if(global.gamePaused && room != room_first){
 	
 		//Press UP
 		if(
-			keyboard_check_pressed(global.gameUp) || keyboard_check_pressed(vk_up)
+			keyboard_check_pressed(global.gameUp) ||
+			keyboard_check_pressed(vk_up)
 		){
 			pauseCursor--;
 			if(!pauseConfirmation){

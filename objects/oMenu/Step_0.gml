@@ -11,9 +11,7 @@ if(menuControl){
 		if(--menuCursor < 0){menuCursor = menuItems - 1;}
 	}
 	
-	if(
-		keyboard_check_pressed(vk_enter) || mouse_check_button_pressed(mb_left)
-	){
+	if(keyboard_check_pressed(vk_enter) || mouse_check_button_pressed(mb_left)){
 		menuTargetX = guiWidth + 200;
 		menuCommitted = menuCursor;
 		scScreenShake(4, 30);
